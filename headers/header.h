@@ -1,5 +1,5 @@
 #ifndef HEADER_H
-#define HEADER_H
+#define HEADER_h
 
 #include <SDL2/SDL.h>
 #include <stdint.h>
